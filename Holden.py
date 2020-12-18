@@ -1,1 +1,1 @@
-print ('Hello mazafakas!')
+print ('Hello BIATCHES!')
